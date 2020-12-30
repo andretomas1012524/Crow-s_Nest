@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Crow\'s Nest</string>
+    <string name="textviewtest">TextViewTest</string>
 </resources>
